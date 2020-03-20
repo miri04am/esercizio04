@@ -1,1 +1,1 @@
-descrizione del progetto: svolgo esercizio 02
+esercizio 4 di git-hub
