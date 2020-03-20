@@ -1,1 +1,2 @@
-esercizio 4 di git-hub
+esercizio 4 :
+svolgo l'esercizio 4 per i compiti
